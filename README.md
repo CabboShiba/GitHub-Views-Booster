@@ -10,9 +10,6 @@ Start the program.
 The tool is not really fast as it is not Multi-Threading, anyway you will gain lot of views.
 Enjoy :)
 
-My counter:
-![](https://komarev.com/ghpvc/?CabboShiba&color=green)
-
 # Do you want to contact me?
 Discord: FreeCabbo10#6558
 
